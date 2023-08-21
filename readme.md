@@ -1,6 +1,6 @@
 ## Stealer-py
 
-
+<p>Devoloper  : legenduser & server support <a href = "https://discord.gg/hubadn" target ="_blank">Support</a></p>
 
 <h1>Featurs</h1>
 
